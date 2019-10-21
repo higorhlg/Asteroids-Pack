@@ -8,8 +8,6 @@
 
 O objetivo do jogo é destruir asteróides e naves inimigas sem ser atingido. O jogo começa com uma quantidade de asteroids em cena e após todos serem destruídos, novos asteroids aparecem, começando a próxima onda. O jogo fica mais difícil a cada onda com um número maior de asteróides e ao começar uma nova onda, naves inimigas podem aparecer.
 
-Descrição do que deve ser implementado:
-
 # Menu Principal
 
 Ao começar o jogo deve ser exibido um menu principal com as opções de começar o jogo e sair do mesmo. O menu deverá então conter:
