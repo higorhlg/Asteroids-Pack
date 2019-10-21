@@ -7,7 +7,7 @@
 
 <h1> Sobre o jogo </h1>
 
-O objetivo é pontuar destruindo asteróides e naves inimigas enquanto se mantém vivo, obtendo pontos para cada asteróide destruido de acordo com o seu tamanho. Quando um asteróide é destruído, existe uma chance de aparecer uma das possíveis naves inimigas, que fornecem mais pontos do que asteróides ao serem destruídas, e quando todos os asteróides são destruídos, começa um novo level com mais asteróides.
+O objetivo é pontuar destruindo asteróides e naves inimigas enquanto se mantém vivo, obtendo pontos para cada asteróide destruido de acordo com o seu tamanho. Quando um asteróide é destruído, existe uma chance de aparecer uma das possíveis naves inimigas, que fornecem mais pontos do que asteróides ao serem destruídas. E quando todos os asteróides são destruídos, se inicia um novo level com mais asteróides.
 
 # Menu Principal
 
