@@ -11,7 +11,7 @@ O objetivo do jogo é destruir asteróides e naves inimigas sem ser atingido. O 
 
 # Menu Principal
 
-Ao começar o jogo deve ser exibido um menu principal com as opções de começar o jogo e sair do mesmo. O menu deverá então conter:
+Ao começar o jogo deve ser exibido um menu principal com as opções de começar o jogo e sair do mesmo. O menu deverá conter:
 <ul>
   <li> Imagem de fundo </li>
   <li> "Asteroids" como título do menu </li>
