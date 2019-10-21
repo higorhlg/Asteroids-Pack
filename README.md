@@ -1,5 +1,6 @@
 # Asteroids-Pack
-<p align="center"> Assets estão disponíveis neste repositório para a criação de um jogo similar ao clássico Asteroids. </p>
+<p align="center"> Repositório criado para facilitar o acesso a recursos(assets) e informações para a atividade a ser realizada com a turma de Introdução ao desenvolvimento de jogos Digitais. Os assets aqui disponíveis serão utilizados para a criação de um jogo similar ao clássico Asteroids. </p>
+
 <p align="center">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/en/1/13/Asteroi1.png" />
 </p>
