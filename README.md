@@ -7,7 +7,7 @@
 
 <h1> Sobre o jogo </h1>
 
-O objetivo é destruir asteróides e naves inimigas sem ser atingido. O jogo começa com uma quantidade de asteroids em cena e após todos serem destruídos, novos asteroids aparecem, começando a próxima onda. Para cada asteróide destruido existe uma chance de que apareça uma nave inimiga, e o jogo fica mais difícil aumentando o número de asteróides em cada onda.
+O objetivo é pontuar destruindo asteróides e naves inimigas enquanto se mantém vivo, obtendo pontos para cada asteróide destruido de acordo com o seu tamanho. Quando um asteróide é destruído, existe uma chance de aparecer uma das possíveis naves inimigas, que fornecem mais pontos ao serem destruídas, e quando todos os asteróides são destruídos, começa um novo level com mais asteróides.
 
 # Menu Principal
 
