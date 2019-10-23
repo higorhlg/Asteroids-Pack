@@ -52,7 +52,7 @@ Sendo assim o jogador deverá ser capaz de:
   <li> Rotacionar para esquerda e direita</li>
   <li> Atirar </li>
   <li> Impulsionar para frente </li>
-  <li> Sair da tela e reaparecer no lado oposto de onde saiu </li>
+  <li> Sair da tela e reaparecer no lado oposto de onde saiu (Screen Wrap)</li>
 </ul>
 
   
