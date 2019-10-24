@@ -5,11 +5,11 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/en/1/13/Asteroi1.png" />
 </p>
 
-<h1> Sobre o jogo </h1>
+<h2> Sobre o jogo </h2>
 
 O objetivo é pontuar destruindo asteróides e naves inimigas enquanto se mantém vivo, obtendo pontos para cada asteróide destruido de acordo com o seu tamanho. Quando um asteróide é destruído, existe uma chance de aparecer uma das possíveis naves inimigas, que fornecem mais pontos do que asteróides ao serem destruídas. E quando todos os asteróides são destruídos, se inicia um novo level com mais asteróides.
 
-# Menu Principal
+<h2> Menu Principal </h2>
 
 Ao começar o jogo deve ser exibido um menu principal com as opções de começar o jogo e sair do mesmo. O menu deverá conter:
 <ul>
@@ -29,7 +29,7 @@ Um exemplo de como poderia ficar o seu menu principal:
 </p>
 
 
-# Interface do Usuário em jogo (UI)
+<h2> Interface do Usuário em jogo (UI) </h2>
 
 A cena em que se passa o jogo deverá conter como elementos da interface do usuário:
 <ul>
@@ -44,7 +44,7 @@ Um exemplo de como poderia ficar a sua interface do usuário durante o jogo:
 </p>
 
 
-# Mecânicas do jogador (nave)
+<h2> Mecânicas do jogador (nave) </h2>
 O jogador começa com 3 vidas e controla uma nave capaz de rotacionar, atirar e se movimentar para frente com o impulso da turbina da nave, a nave eventualmente para de se movimentar quando não está sendo impulsionada.
 O jogador pode sair com a nave dos limites da tela e sair no lado oposto da tela.
 Sendo assim o jogador deverá ser capaz de:
@@ -57,7 +57,7 @@ Sendo assim o jogador deverá ser capaz de:
 
 Ao impulsionar para frente, deverá ser reproduzida uma animação com a turbina da nave soltando fogo (disponível na pasta de assets disponibilizada).
 
-# Estados do Jogo 
+<h2> Estados do Jogo </h2> 
 O jogo deverá ter estados, sendo eles:
 <ul>
     <li> WAITGAME (Esperando) </li>
@@ -70,11 +70,11 @@ O jogo deverá ter estados, sendo eles:
 
 Alguns estados deverão ter telas específicas,
 
-<h2> Estado de Pausa (PAUSED) </h2>
+<h3> Estado de Pausa (PAUSED) </h3>
 
 Para o estado PAUSED, o jogo deverá ser congelado e deverá existir na interface do usuário (UI) alguma forma de resumir o jogo.
 
-<h2> Estado de Game Over </h2>
+<h3> Estado de Game Over </h2>
 
 Para esse estado GAMEOVER, é obrigatório existir uma tela que:
 <ul>
