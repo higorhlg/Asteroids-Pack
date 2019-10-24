@@ -67,4 +67,18 @@ O jogo deverá ter estados, sendo eles:
     <li> GAMEOVER (Fim de Jogo) </li>
     <li> RESTART </li>
 </ul>
- 
+
+Alguns estados deverão ter telas específicas,
+
+<h2> Estado de Pausa (PAUSED) </h2>
+
+Para o estado PAUSED, o jogo deverá ser congelado e deverá existir na interface do usuário (UI) alguma forma de resumir o jogo.
+
+<h2> Estado de Game Over </h2>
+
+Para esse estado GAMEOVER, é obrigatório existir uma tela que:
+<ul>
+    <li> Indique a quantidade total de pontos do jogador </li>
+    <li> Possua um botão para recomeçar o jogo </li>
+    <li> Possua um botão para voltar ao menu do jogo </li>
+</ul
