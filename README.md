@@ -63,9 +63,9 @@ O jogo deverá ter estados, sendo eles:
     <li> WAITGAME (Esperando) </li>
     <li> STARTGAME (Começando) </li>
     <li> INGAME (Em jogo) </li>
+    <li> NEXTWAVE (Próxima Onda) </li>
     <li> PAUSED (Pausado) </li>
     <li> GAMEOVER (Fim de Jogo) </li>
-    <li> RESTART </li>
 </ul>
 
 Alguns estados deverão ter telas específicas,
