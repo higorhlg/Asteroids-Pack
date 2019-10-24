@@ -55,6 +55,16 @@ Sendo assim o jogador deverá ser capaz de:
   <li> Sair da tela e reaparecer no lado oposto de onde saiu (Screen Wrap)</li>
 </ul>
 
-  
+Ao impulsionar para frente, deverá ser reproduzida uma animação com a turbina da nave soltando fogo (disponível na pasta de assets disponibilizada).
 
+# Controle do Jogo (GameController)
+O jogo deverá ter estados, sendo eles:
+<ul>
+    <li> WAITGAME (Esperando) </li>
+    <li> STARTGAME (Começando) </li>
+    <li> INGAME (Em jogo) </li>
+    <li> PAUSED (Pausado) </li>
+    <li> GAMEOVER (Fim de Jogo) </li>
+    <li> RESTART </li>
+</ul>
  
