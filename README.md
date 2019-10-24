@@ -57,7 +57,7 @@ Sendo assim o jogador deverá ser capaz de:
 
 Ao impulsionar para frente, deverá ser reproduzida uma animação com a turbina da nave soltando fogo (disponível na pasta de assets disponibilizada).
 
-# Controle do Jogo (GameController)
+# Estados do Jogo 
 O jogo deverá ter estados, sendo eles:
 <ul>
     <li> WAITGAME (Esperando) </li>
