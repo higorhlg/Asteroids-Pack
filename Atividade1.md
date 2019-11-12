@@ -36,7 +36,7 @@ Para poder atirar, crie a munição (laser) a ser disparado como objeto em cena,
 
 <b>O prefab da munição deverá ter um script que faça apenas com que a mesma se movimente para frente a cada quadro do jogo (Update).</b>
 
-Com o prefab pronto, o script do player, ao detectar um CLIQUE ESQUERDO ou a tecla ESPAÇO deverá fazer a instanciação (criação) do objeto a partir do prefab criado, para isso deverá ser feito o uso do método Instantiate, informações e exemplos disponíveis <a href="https://docs.unity3d.com/ScriptReference/Rigidbody2D.AddForce.html">aqui</a>. 
+Com o prefab pronto, o script do player, ao detectar um CLIQUE ESQUERDO ou a tecla ESPAÇO deverá fazer a instanciação (criação) do objeto a partir do prefab criado, para isso deverá ser feito o uso do método Instantiate, informações e exemplos disponíveis <a href="https://docs.unity3d.com/ScriptReference/Object.Instantiate.html">aqui</a>. 
 
 <h4> Observações sobre o Instantiate </h4>
 O método Instantiate possui várias formas de utilização, a que devemos utilizar no momento é:
