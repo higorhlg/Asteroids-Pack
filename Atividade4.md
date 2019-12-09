@@ -1,6 +1,7 @@
 # Atividade3
 
-<h3> Faça com que ao começar o jogo sejam criados uma certa quantidade de meteoros em posições aleatórias da cena</h3>
+<h3>Spawn de Meteoros</h3>
+Faça com que ao começar o jogo sejam criados uma certa quantidade de meteoros em posições aleatórias da cena.
 
 <h2> Dicas </h2>
 
