@@ -93,7 +93,7 @@ Utilize a função <b>Random.Range(valorMínimo, valorMáximo)</b> para gerar um
 Exemplo:
 
 ```
-Random.Range(0,100) gera um valor inteiro aleatório entre 0 e 100
+Random.Range(0,100) gera um valor aleatório entre 0 e 100
 ```
 
 Sugere-se a utilização de valores aleatórios para as direções x e y na movimentação do meteoro.
