@@ -57,29 +57,4 @@ Sendo assim o jogador deverá ser capaz de:
 
 Ao impulsionar para frente, deverá ser reproduzida uma animação com a turbina da nave soltando fogo (disponível na pasta de assets disponibilizada).
 
-<h2> Estados do Jogo </h2> 
-O jogo deverá ter estados, sendo eles:
-<ul>
-    <li> INGAME (Em jogo) </li>
-    <li> PAUSED (Pausado) </li>
-    <li> GAMEOVER (Fim de Jogo) </li>
-</ul>
 
-Alguns estados deverão ter telas específicas como o PAUSED e o GAMEOVER.
-
-<h3> Estado de jogo (INGAME) </h3>
-
-Para o estado INGAME o jogo deverá ter o tempo fluindo naturalmente (Time.timeScale = 1). 
-
-<h3> Estado de Pausa (PAUSED) </h3>
-
-Para o estado PAUSED, o jogo deverá ser congelado (Time.timeScale = 0) e deverá existir na interface do usuário (UI) alguma forma de resumir o jogo (voltar para o estado INGAME).
-
-<h3> Estado de Game Over </h3>
-
-Para esse estado GAMEOVER, além do tempo ser congelado, é obrigatório exibir uma tela que:
-<ul>
-    <li> Indique a quantidade total de pontos do jogador </li>
-    <li> Possua um botão para recomeçar o jogo </li>
-    <li> Possua um botão para voltar ao menu do jogo </li>
-</ul>
