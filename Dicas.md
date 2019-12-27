@@ -1,6 +1,6 @@
 # Dicas para scripts
 
-<h3> Acessar variável de outro script </h3>
+<h3> 1- Acessar variável de outro script </h3>
 
 Para acessar uma variável de outro script, crie uma variável para servir de referência ao script em que se encontra a variável desejada, o tipo dessa variável deve ser o nome do script alvo. Além disso, se certifique de que a variável desejada esteja definida como <b> pública </b> para que possa ser realizado o acesso externo.
 
@@ -53,7 +53,7 @@ public class Script1: MonoBehaviour{
 ```
 
 
-<h3> Encontrar objeto na cena através da tag </h3>
+<h3> 2 - Encontrar objeto na cena através da tag </h3>
 Em algumas situações pode ser necessário a busca de um objeto da cena por algum motivo, como por exemplo pegar um componente desse objeto.
 
 Para encontrar um objeto na cena através de sua tag usamos o comando a seguir:
@@ -85,7 +85,7 @@ public class Script1: MonoBehaviour{
 .
 ```
 
-<h3> Gerar valor aleatório </h3>
+<h3> 3 - Gerar valor aleatório </h3>
 
 Podemos utilizar a função `Random.Range(minValor, maxValor)` para gerar um valor entre `minValor` e `maxValor`.
 Exemplo:
