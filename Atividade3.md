@@ -41,9 +41,9 @@ O player ao colidir com um meteoro deve ser destruído e reaparecer no meio da t
 Para acessar uma variável de outro script, crie uma variável para servir de referência ao script em que se encontra a variável desejada, o tipo dessa variável deve ser o nome do script alvo. Além disso, se certifique de que a variável desejada esteja definida como <b> pública </b> para que possa ser realizado o acesso externo.
 
 Exemplo:
-Suponhamos que existem 2 scripts: Script1 e Script2.
+Suponhamos que existem 2 scripts: Script1 e Script2. 
 
-Script1 deseja acessar uma variável <b> x </b> que está definida da seguinte forma no script 2:
+No Script1 você deseja acessar uma variável <b> x </b> que está presente no script 2:
 
 ```
 .
@@ -57,7 +57,7 @@ public class Script2: MonoBehaviour{
 .
 ```
 
-Para realizar esse acesso, deve-se criar uma variável no Script1 do tipo Script2:
+Para realizar esse acesso, deve-se criar uma variável no Script1 do tipo <b>Script2</b>:
 
 ```
 .
@@ -72,7 +72,7 @@ public class Script1: MonoBehaviour{
 .
 ```
 
-Com o valor atribuído corretamente a variável "script", temos acesso as variáveis e também aos métodos/funções públicas presentes no Script2, podendo acessar esses atributos através de um .(ponto) ao final da palavra "script", exemplo:
+Com o valor atribuído corretamente a variável "script" (pelo inspector no objeto que está rodando o Script1), temos acesso as variáveis e também aos métodos/funções <b>públicas</b> presentes no Script2, podendo acessar esses atributos através de um .(ponto) ao final da palavra "script", exemplo:
 
 ```
 public class Script1: MonoBehaviour{
