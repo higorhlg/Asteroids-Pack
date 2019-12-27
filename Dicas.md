@@ -1,6 +1,6 @@
-# Dicas para scripts
+# Dicas
 
-<h3> 1- Acessar variável de outro script </h3>
+<h3> 1 - Acessar variável de outro script </h3>
 
 Para acessar uma variável de outro script, crie uma variável para servir de referência ao script em que se encontra a variável desejada, o tipo dessa variável deve ser o nome do script alvo. Além disso, se certifique de que a variável desejada esteja definida como <b> pública </b> para que possa ser realizado o acesso externo.
 
